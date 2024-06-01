@@ -1,0 +1,30 @@
+﻿
+.dashboard-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.dashboard-widget {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+    .dashboard-widget h3 {
+        margin-top: 0;
+        font-size: 1.25rem;
+        color: #333333;
+    }
+
+    .dashboard-widget ul {
+        padding-left: 20px;
+    }
+
+    .dashboard-widget li {
+        margin-bottom: 10px;
+    }
